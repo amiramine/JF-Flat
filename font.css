@@ -1,11 +1,11 @@
 /* Regular */
 @font-face {
     font-family: "JF Flat Regular";
-    src: url('font/JF-Flat-regular.eot');
-    src: url('font/JF-Flat-regular.eot?#iefix') format('embedded-opentype'),
-    url('font/JF-Flat-regular.svg#JF Flat Regular') format('svg'),
-    url('font/JF-Flat-regular.woff') format('woff'),
-    url('font/JF-Flat-regular.ttf') format('truetype');
+    src: url('https://github.com/SeyamMs/JF-Flat/blob/master/font/JF-Flat-regular.eot?raw=true');
+    src: url('https://github.com/SeyamMs/JF-Flat/blob/master/font/JF-Flat-regular.eot?raw=true?#iefix') format('embedded-opentype'),
+    url('https://raw.githubusercontent.com/SeyamMs/JF-Flat/master/font/JF-Flat-regular.svg#JF Flat Regular') format('svg'),
+    url('https://github.com/SeyamMs/JF-Flat/blob/master/font/JF-Flat-regular.woff?raw=true') format('woff'),
+    url('https://github.com/SeyamMs/JF-Flat/blob/master/font/JF-Flat-regular.ttf?raw=true') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
